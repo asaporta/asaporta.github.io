@@ -14,6 +14,7 @@ profile:
     <a href='https://github.com/asaporta'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
     <a href='https://twitter.com/arsaporta/'><i class="fa-brands fa-twitter fa-xl"></i></a>&nbsp;
     <a href='https://scholar.google.com/citations?user=cbBgjV8AAAAJ&hl=en'><i class="fa-brands fa-google-scholar fa-xl"></i></a>&nbsp;
+    <a href='https://www.alphaxiv.org/@adriel-saporta' aria-label='alphaXiv'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -106.97 718.41 718.41" width="1.5em" height="1.5em" fill="#606060" style="vertical-align:-0.35em"><polygon points="591.15 258.54 718.41 385.73 663.72 440.28 536.57 313.62 591.15 258.54"/><path d="M273.86.3c34.56-2.41,67.66,9.73,92.51,33.54l94.64,94.63-55.11,54.55-96.76-96.55c-16.02-12.7-37.67-12.1-53.19,1.11L54.62,288.82,0,234.23,204.76,29.57C223.12,13.31,249.27,2.02,273.86.3Z"/><path d="M663.79,1.29l54.62,54.58-418.11,417.9c-114.43,95.94-263.57-53.49-167.05-167.52l160.46-160.33,54.62,54.58-157.88,157.77c-33.17,40.32,18.93,91.41,58.66,57.48L663.79,1.29Z"/></svg></a>&nbsp;
     <a href='mailto:adriel@nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
     </center>
 
